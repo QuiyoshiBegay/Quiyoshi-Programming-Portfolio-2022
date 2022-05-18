@@ -1,0 +1,5 @@
+For the calculator you need to download tkinker
+most of the games youll need to install pygame
+install os 
+vec = pg.math.Vector2 is for math
+install pytmx for the rpghorror for you the computer to read your tilemap
